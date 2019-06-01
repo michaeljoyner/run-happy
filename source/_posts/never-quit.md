@@ -5,7 +5,7 @@ date: 2017-06-16
 categories: "Banting, running"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841642/lhl3dq9mfn24zvcsp7fi.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841642/lhl3dq9mfn24zvcsp7fi.jpg"/></p>
 <p>Winston Churchill was such a wise old goat. He inspired so many and he still inspires me today.</p>
 <p>My Comrades history must look pretty shocking to those runners that cruise the distance every year in under 12 hours – four DNF and four DNS. DNS means failure to qualify and DNF means failure to finish in time. I’ve been close – 80km on my two down runs, 60km on my first up run where I panicked and quit. Plain stupidity and inexperience. 75km on my second up run because I knew that it was physically impossible to make the timing mat at the top of Pollys at 79km.</p>
 <p>But I ain’t bovvered and I just keep on keeping on, my eye always on that insignificantly sized medal, and my mind full of quotes from that whiskey-drinking, cigar-smoking hero.</p>

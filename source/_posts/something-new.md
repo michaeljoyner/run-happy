@@ -13,7 +13,7 @@ categories: "Mountain Biking, running"
 
 
 
-<figure class="wp-block-image"><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558866443/gkxt7bvofywcufhvle6w.jpg"/><figcaption><strong>My squeaky clean Blue Beast….</strong></figcaption></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558866443/gkxt7bvofywcufhvle6w.jpg"/><figcaption><strong>My squeaky clean Blue Beast….</strong></figcaption></figure>
 
 
 
@@ -29,6 +29,6 @@ categories: "Mountain Biking, running"
 
 
 
-<figure class="wp-block-image"><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558866445/bwkurduuaklmk88ifuly.jpg"/><figcaption><strong>Equipment for my new workout….</strong></figcaption></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558866445/bwkurduuaklmk88ifuly.jpg"/><figcaption><strong>Equipment for my new workout….</strong></figcaption></figure>
 
 

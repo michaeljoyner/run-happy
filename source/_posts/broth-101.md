@@ -5,7 +5,7 @@ date: 2017-10-26
 categories: "running, Banting"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841613/ldjopgh4agrbwo8ifvjf.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841613/ldjopgh4agrbwo8ifvjf.jpg"/></p>
 <p>Sometimes life is just too short to be hunting for celery, carrots, the egg of a virgin quail etc etc. So I have simplified my broth recipe to beyond simple – just make sure you always have fresh garlic and onions in your house!</p>
 <p>STEP ONE – roast and eat one happily-raised farm chicken (I know of two local suppliers btw), and store carcass and any bones in the freezer.</p>
 <p>STEP TWO – repeat step one when convenient.</p>

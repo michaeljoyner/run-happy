@@ -5,7 +5,7 @@ date: 2015-01-09
 categories: "Uncategorized"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558842133/ajbdiqdhwjl8na4owaxo.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558842133/ajbdiqdhwjl8na4owaxo.jpg"/></p>
 <p> </p>
 <p>The perfect morning for a run!   And my running life is pretty much perfect at the moment.   No, I haven’t cracked the sub-5 marathon and, no,  I haven’t qualified for Comrades.   And nor have I qualified to upgrade my half entry to an ultra entry at Two Oceans.   And my left hammy still niggles.</p>
 <p>BUT, my other half (better half some would say), who has, for years, told me that he would rather shoot himself in the foot than take up running,  has started running with me!   He suddenly announced on New Years Eve that he would join me in the morning for my New Years run.</p>

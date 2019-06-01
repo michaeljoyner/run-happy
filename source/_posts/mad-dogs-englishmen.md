@@ -6,7 +6,7 @@ categories: "Uncategorized"
 ---
 
 <p>We woke up to rain this morning.</p>
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558842107/yrbyswaxhbakjzpqqmjm.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558842107/yrbyswaxhbakjzpqqmjm.jpg"/></p>
 <p> </p>
 <p>Beautiful weather for running, says the OG.   Mad dogs and Englishmen spring immediately to mind.   Mmmmm, maybe for ducks, I think.   Ducks that like to run.   Maybe ducks being chased by a fox.   Surely not us?</p>
 <p>As they say, you can’t fight Town Hall, so off we go.   Luckily it was a Club Run today – our Club Runs are on the main tar road out of Matatiele – and so we didn’t need some sort of studded shoe to stay upright in the mud.</p>

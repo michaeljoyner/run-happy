@@ -5,7 +5,7 @@ date: 2017-11-03
 categories: "Banting"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841612/slzgcu0rbzgxdyuxepgn.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841612/slzgcu0rbzgxdyuxepgn.jpg"/></p>
 <p>Now I know this does not look very inspiring, but I can assure you it tastes like heaven, gives a healthy dose of good fat, a moderate dose of protein, is low in carbs and will carry you through from breakfast to lunch with the greatest of ease! The secret ingredient – peanut butter!</p>
 <p>Here is my recipe:</p>
 <p>2 tablespoons Greek yoghurt, 1 tablespoon double thick cream,           1 tablespoon Black Cat crunchy peanut butter, 1 tablespoon dessicated coconut, 1 tablespoon sunflower seeds and 1 teaspoon xylitol. Mix together and enjoy.</p>

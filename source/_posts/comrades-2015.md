@@ -5,7 +5,7 @@ date: 2015-06-02
 categories: "Uncategorized"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558842063/ifjvwhykqro7ycazaqyj.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558842063/ifjvwhykqro7ycazaqyj.jpg"/></p>
 <p>What a Comrades!  The OG and I seconded on our KLR650.   All those that know me well,  know that I am terrified of the freeway.  I won’t drive on it – I take all the back roads even if my journey is longer.   And as a passenger I’m impossible.</p>
 <p>Anyway there I am about to embark on a motor bike trip on said dreaded freeway.  I had no choice – the traffic congestion at Comrades has become so bad on the up run that a bike is the only way to go.</p>
 <p>Seconding goes like this.  You agree with your runner on where and how often to meet and you carry everything they may need.  And I mean everything.  Nothing is more indecisive than a runner deep in the pain cave.  I know.  As the race progresses they don’t know what they want any more.  Simba chips, ice chips? Food, drink? Maybe a  small revolver?</p>

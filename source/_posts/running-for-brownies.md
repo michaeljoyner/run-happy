@@ -5,7 +5,7 @@ date: 2017-11-19
 categories: "Uncategorized"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841606/f1hjdklrng74wyesydet.png"/> <img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841607/cd8g3pkz7a4lk2pj7j8e.png"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841606/f1hjdklrng74wyesydet.png"/> <img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841607/cd8g3pkz7a4lk2pj7j8e.png"/></p>
 <p>The running gurus say that every run should have a purpose or a goal – it can be to add speed intervals, do hills, run at tempo pace, go long, the list goes on. My goal today? Running to earn chocolate brownies and cappuccino afterwards – with cream!</p>
 <p>All Banting-approved, and while the picture of the brownies is not mine, the recipe is:</p>
 <p>Melt together 52 grams of coconut  oil and 58 grams of butter. Beat 3 eggs with 200 ml xylitol. Add the beaten eggs to the melted fats and stir in 1/2 cup of cocoa powder. Mix well.</p>

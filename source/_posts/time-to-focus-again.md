@@ -6,8 +6,8 @@ categories: "running, Uncategorized"
 ---
 
 <div class="simple-gallery">
-    <img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841600/cdzmpfbslr0yc1iahg3u.jpg"/>
-    <img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841601/qzeyepbliuy5f0bpnluq.jpg"/>
+    <img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841600/cdzmpfbslr0yc1iahg3u.jpg"/>
+    <img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841601/qzeyepbliuy5f0bpnluq.jpg"/>
 </div>
 <p> </p>
 <p class="Body"><span lang="EN-US">I haven’t blogged for 3 months now. So many reasons.</span></p>

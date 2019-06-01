@@ -5,7 +5,7 @@ date: 2014-07-23
 categories: "Uncategorized"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558842177/oz8eqw0okawiisdca86y.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558842177/oz8eqw0okawiisdca86y.jpg"/></p>
 <p> </p>
 <p>The best part of the 10 km Totalsports Ladies Race in Durban is  relaxing with a cappuccino on the beachfront after the race!  And what a fabulous race it was!   Gorgeous weather,   a PB for one of my daughters  –  and I had new shoes and a new running skirt which I’m sure made me look really fast!</p>
 <p>The new shoes were bought on a whim and were a total departure from conventional wisdom (again!).   Conventional wisdom says once you have found a shoe that does not give you any hassles,  stick with it.   I’ve run in Asics Nimbus for over 10 years now with zero hassles and I fully intended to get a new pair of just those.</p>

@@ -5,7 +5,7 @@ date: 2014-11-03
 categories: "Uncategorized"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558842155/q8wzv0i1wty9tm4yf9jm.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558842155/q8wzv0i1wty9tm4yf9jm.jpg"/></p>
 <p> </p>
 <p> </p>
 <p> </p>
@@ -14,7 +14,7 @@ categories: "Uncategorized"
 <p>I set out to do as many marathons as I could this year so that the distance and pain would no longer be intimidating.   Well I don’t think that 42 plus kilometres ever loses it’s ability to intimidate but I must say I don’t feel nearly as nervous as I used to be.  This could also be because  I’m not (yet) trying to crack that elusive sub-5.  My last four have all been done at 6-plus hours.</p>
 <p>As for running through Soweto – I loved it!  The course twisted and turned and was constantly entertaining.  I saw things I would never have imagined to exist in a township – many streets lined with established trees, a few nice looking parks, an enormous mall and even a perfectly groomed Maltese Poodle chilling in a tiny little dirt yard.  Entrepreneurship seems to be going strong there as well.  My favourite was a huge advert by someone selling tombstones – “Pay once and enjoy forever!”  I got to run past Mandela’s home on the famous Vilikazi Street.  There was some pretty cool stuff going on there but unfortunately the hill was so steep I could barely breathe!</p>
 <p>As a white woman from the “privileged class” I received far more friendship and support than I ever would have imagined.   Thank you Soweto for a really good time!</p>
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558842156/hridyqfsyku7iusdswsq.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558842156/hridyqfsyku7iusdswsq.jpg"/></p>
 
 
 

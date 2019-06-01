@@ -6,7 +6,7 @@ categories: "running"
 intro: "I have got the most terrible case of Fomo. Imagine sitting around in your PJ’s when you could be trotting merrily along the 52km between Bergville and Ladysmith. Wrist-slitting stuff this."
 ---
 
-<figure class="wp-block-image"><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558866437/icy6c7qzkk6xthodkglz.jpg"/></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558866437/icy6c7qzkk6xthodkglz.jpg"/></figure>
 
 <p>I have got the most terrible case of Fomo. Imagine sitting around in your PJ’s when you could be trotting merrily along the 52km between Bergville and Ladysmith. Wrist-slitting stuff this. Yes, I am missing the Arthur Cresswell, a race known for its intense heat, frolicking wildebeest and snorting of Grandpa powders.</p>
 

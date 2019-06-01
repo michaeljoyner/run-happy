@@ -9,7 +9,7 @@ categories: "running"
 
 
 
-<figure class="wp-block-image .border-image"><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558866470/rmbecp0f3moejzl4thne.png"/></figure>
+<figure class="wp-block-image .border-image"><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558866470/rmbecp0f3moejzl4thne.png"/></figure>
 
 
 
@@ -29,7 +29,7 @@ categories: "running"
 
 
 
-<figure class="wp-block-image"><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558866471/zarldcbpdamk7ccmfh6l.png"/><figcaption>Taken from the Runners World Article<br/><br/></figcaption></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558866471/zarldcbpdamk7ccmfh6l.png"/><figcaption>Taken from the Runners World Article<br/><br/></figcaption></figure>
 
 
 

@@ -5,7 +5,7 @@ date: 2016-01-27
 categories: "Uncategorized"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841990/rwowgg9oqu8igg2tqcij.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841990/rwowgg9oqu8igg2tqcij.jpg"/></p>
 <p>I’m busy sorting through 6000 photos in an effort to organize myself before migrating from my Windows laptop to my new MacBook Air (exquisite creature). Hence the arb pic that has nothing to do with this post, except that it was taken on my running turf.</p>
 <p>What I really want to write about is the week leading up to the marathon.  My Coach Mo (no, settle down, it’s not Mo Farah) favours a low volume, high intensity approach to training so we do not have much of a taper. Certainly no time to be lolling around, stressing about what the weather will do on Sunday, or the germs I may pick up between now and then. But I do cut out my cross training (which is mainly Pilates) in the last week.</p>
 <p>This led me to think of things to do with that extra time, things that will make me feel relaxed and ready. I came up with these:</p>

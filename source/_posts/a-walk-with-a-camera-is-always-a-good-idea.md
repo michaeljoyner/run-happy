@@ -5,9 +5,9 @@ date: 2015-06-13
 categories: "Uncategorized"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558842059/igzm7uql5t9uwqd08oht.jpg"/></p>
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558842060/qamhlrdwc9wozvwpkwyi.jpg"/></p>
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558842061/chohvdhrmfy8lthfswm0.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558842059/igzm7uql5t9uwqd08oht.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558842060/qamhlrdwc9wozvwpkwyi.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558842061/chohvdhrmfy8lthfswm0.jpg"/></p>
 <p>If you take running away from a seasoned runner, the consequences can be dangerous.   They often teeter on the edge of insanity.   Such has been my life for the last two and a half weeks.</p>
 <p> </p>
 <p>It started with a cold, then came bronchitis.   Being asthmatic I had to get to the doctor asap for antibiotics and other potions.   Once my chest had cleared I think I caught yet another cold virus.   Often I will run anyway – a gentle run often makes a cold feel better.</p>
@@ -20,8 +20,8 @@ categories: "Uncategorized"
 <p>The result of all this unnecessary moping around is that I feel totally bleh and wonder whether I’ll ever be able to cover 10km at a decent pace again, let alone 42km.</p>
 <p>I have a recipe for blehness though:  Grab a camera and take the dogs for a walk.   Then go to a salon, have a haircut and change your colour!   My hair is now a little redder than Duke’s and just as glossy!</p>
 <p>And they do say red is fast…..</p>
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558842062/svqarophx58aeivmcmnu.jpg"/></p>
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558842062/tk9rp7uhtdikmrkqbhbc.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558842062/svqarophx58aeivmcmnu.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558842062/tk9rp7uhtdikmrkqbhbc.jpg"/></p>
 <p> </p>
 
 

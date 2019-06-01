@@ -5,7 +5,7 @@ date: 2017-06-24
 categories: "Banting, running"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841642/skeoou64mvyi2v042qvv.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841642/skeoou64mvyi2v042qvv.jpg"/></p>
 <p>I have found my perfect post-run breakfast. So good it makes me run quicker just to get at it! I found a recipe on <a href="http://www.dietdoctor.com" rel="nofollow">http://www.dietdoctor.com</a> for Keto Porridge and with a few tweaks I made it my own – perfect on a winter’s morning when you come in with ice on your beanie!</p>
 <p>Break an egg into a small bowl, add 6 tablespoons cream and whisk together. To this add one tablespoon chia seeds and one tablespoon sesame seeds. Sunflower seeds also work if you don’t have sesame and I’m guessing a few pumpkin seeds won’t go amiss.</p>
 <p>The chia seeds need to sit for a while so now is the time to shower. Once you’re done it will be ready to cook.</p>

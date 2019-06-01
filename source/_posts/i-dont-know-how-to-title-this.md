@@ -8,7 +8,7 @@ intro: "Should it be “Camping with Lions”, “Washing in a Bucket”, or “
 
 <p>Should it be “Camping with Lions”, “Washing in a Bucket”, or “How to Poo In The Veld”? Or maybe “You Can’t Part Me From My Hairdryer”?</p>
 
-<figure class="wp-block-image"><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558866426/dcp4kulaveohzmqdrhgh.jpg"/></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558866426/dcp4kulaveohzmqdrhgh.jpg"/></figure>
 
 <p>We’re off to the Central Kalahari this weekend where apparently there is a COMPLETE lack of civilisation. I cannot lie – I am scared. More scared than I was for my 50-miler on trail, more scared than I was for the climb-out-of-hell stage race that was Three Cranes.</p>
 

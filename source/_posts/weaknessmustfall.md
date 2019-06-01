@@ -6,7 +6,7 @@ categories: "Uncategorized"
 ---
 
 <p>Two x tough 15km in a howling gale and done back to back – conquered! I feel really hard core now and entirely ready for a day on the couch with my book!</p>
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841779/qcpbvwii8d0bh7f5h2ne.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841779/qcpbvwii8d0bh7f5h2ne.jpg"/></p>
 <p>Please take note of my survival bracelet. This is a very cool thing which should be worn by all runners. Several reasons:</p>
 <ol>
 <li>  It is sold in aid of care of the aged in Matatiele. Please check out what Jaco Jacobs and his family are doing on this link <a href="https://www.facebook.com/Matat100/?fref=ts">Matat 100 Miles for the Aged</a></li>

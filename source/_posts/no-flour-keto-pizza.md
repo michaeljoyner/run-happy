@@ -5,7 +5,7 @@ date: 2017-05-06
 categories: "Banting"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841667/fwsp0nt8maowrfrhbkhb.jpg"/> <img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841668/bs4w01nnieoxsldjmpjj.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841667/fwsp0nt8maowrfrhbkhb.jpg"/> <img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841668/bs4w01nnieoxsldjmpjj.jpg"/></p>
 <p>While Fathead Pastry – find it at <a href="http://www.ditchthecarbs.com" rel="nofollow">http://www.ditchthecarbs.com</a> – makes an amazing pizza base and is known as the Holy Grail of low carb pizza, I think I have found a Holier Grail. Enter Keto Pizza with no flour at all! It’s too, too easy but you still need the baking paper.</p>
 <p>Preheat the oven to 200 degrees Celsius and cut your baking paper to fit the pan you will use – one rectangular pizza doesn’t look traditional but is so much easier.</p>
 <p>For the crust:</p>

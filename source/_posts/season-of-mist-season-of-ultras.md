@@ -5,7 +5,7 @@ date: 2016-01-21
 categories: "Uncategorized"
 ---
 
-<figure><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841994/btcot1g77vmcbo3hxxx2.jpg"/><figcaption>Drowned Rat</figcaption></figure>
+<figure><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841994/btcot1g77vmcbo3hxxx2.jpg"/><figcaption>Drowned Rat</figcaption></figure>
 <p>The drowned rat look is hot right now. It makes one look like a hard core trail runner, especially if one manages to smear a touch of mud on one’s cheek. But don’t despair, it can be quite easily achieved by trotting along gently in the mist, as demonstrated in accompanying pic.</p>
 <p>This morning was a gorgeous running morning. Felt almost like autumn, my favourite part of the year, weather-wise and running-wise. Thoughts turn to ultra running. Two Oceans, Om Die Dam, Loskop and Bergville, we need to choose and plan.</p>
 <p>Two Oceans is out. The Capetonians are a fussy bunch. To enter their ultra you need a recent sub-5 marathon under the belt.</p>
@@ -14,7 +14,7 @@ categories: "Uncategorized"
 <p>That leaves Om Die Dam, marginally closer at Hartbeespoort and falling on 12 March this year.  A really well organised race where you can get yourself little baby milk tarts at one of the tables if you’re quick. The support is fabulous. As is the hosing down of hot back- of- the- packers by sozzled spectators as we wend our weary way through the town to the finish. I think we were given a beer as we finished too.</p>
 <p>I’m not sure though whether the OG will drive all the way to Hartbeespoort for a milk tart and a beer. Accompanied by a quick 50 km trot.</p>
 <p> </p>
-<figure><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841996/mgwvpfpjygdrahxzpjhe.jpg"/><figcaption>The girls and I after our second Om Die Dam. I look so much younger and surprisingly fresh!</figcaption></figure>
+<figure><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841996/mgwvpfpjygdrahxzpjhe.jpg"/><figcaption>The girls and I after our second Om Die Dam. I look so much younger and surprisingly fresh!</figcaption></figure>
 <p> </p>
 
 

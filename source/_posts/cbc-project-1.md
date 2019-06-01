@@ -5,7 +5,7 @@ date: 2017-09-03
 categories: "running"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841623/chuj5glj9e2xujqes82f.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841623/chuj5glj9e2xujqes82f.jpg"/></p>
 <p>The Complete Balance Comrades Project is so exciting. A pilot group has signed up to test run this concept and, being September already, we are ready to rock and roll. Our attack on the Big C is a three-pronged one – proper nutrition throughout, strength work and mental focus. This is of course in addition to the normal training programme.</p>
 <p>Our group will be guided by a successful seven-times Comrades runner and registered dietician with a Masters in Dietetics and a qualified and experienced biokineticist.</p>
 <p>Each person will work with the dietician who will help them to reach their healthy racing weight and, more importantly, to find and practise optimal race day nutrition. Every week the bio will work with the group on strengthening exercises to help withstand the pain of a down run.</p>

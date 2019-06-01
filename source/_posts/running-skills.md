@@ -6,7 +6,7 @@ categories: "running"
 intro: "Running is not only about, well, running. There are several things a runner must know how to do, apart from avoiding alligators that is."
 ---
 
-<figure class="wp-block-image"><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558866438/ef7mirrk4smcsoqf9rle.jpg"/></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558866438/ef7mirrk4smcsoqf9rle.jpg"/></figure>
 
 <p>Running is not only about, well, running. There are several things a runner must know how to do, apart from avoiding alligators that is.</p>
 

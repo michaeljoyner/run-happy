@@ -6,7 +6,7 @@ categories: "Uncategorized"
 ---
 
 <p>This is what we would have missed if we had hit the snooze button on the alarm this morning.</p>
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558842103/kyixcyiv7p1hkylisyf2.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558842103/kyixcyiv7p1hkylisyf2.jpg"/></p>
 <p> </p>
 <p>Of course I had to take my camera!   My drop proof, waterproof, idiot proof Fujifilm Finepix XP200.   So handy to just grab and go when time is of the essence.</p>
 <p>It’s the OG’s first half marathon this weekend, but we’re not really tapering – he thinks tapering is for woesies!  I still have to run all the way up the last hill, come hell or high water.   My normal excuses like tying the shoelace, blowing the nose, waiting for a car to pass – none of them work with the Hill Commander.</p>

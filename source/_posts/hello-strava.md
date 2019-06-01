@@ -5,7 +5,7 @@ date: 2018-05-25
 categories: "running"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841600/lkrkagbvj2detrt5zq2w.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841600/lkrkagbvj2detrt5zq2w.jpg"/></p>
 <p class="p1"><span class="s1">Strava is my new toy.</span></p>
 <p class="p1"><span class="s1">But I have to admit I am a little intimidated by all the fast people out there. I need to find my own tribe. If you can identify with one or more of the following you’re eligible for my exclusive team.</span></p>
 <p class="p1"><span class="s1">1. You must think of 6 minutes per kay as REALLY FAST. The idea of doing it for more than 300 meters at a time must FREAK YOU OUT. Your comfort zone is found at around 8 minutes per kay.</span></p>

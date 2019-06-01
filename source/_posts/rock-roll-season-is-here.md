@@ -7,7 +7,7 @@ categories: "Uncategorized"
 
 <p>It’s a week since my last marathon for the year.   I wasn’t sure how to cope with a Sunday without my running “fix” but so far I think I’ve done a pretty good job of it.</p>
 <p>First I went for an early morning hike up the mountain behind our house – me, my better half (?) and 7 dogs.   Glorious weather.</p>
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558842154/lobclzi7kqvupu5jgugg.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558842154/lobclzi7kqvupu5jgugg.jpg"/></p>
 <p> </p>
 <p>My hike was followed by a breakfast of organic coconut porridge with berries, nuts and honey.   Lunch incidentally is an enormous salad made from ingredients picked from my very own veggie garden.</p>
 <p>I may turn into Super Woman shortly.</p>

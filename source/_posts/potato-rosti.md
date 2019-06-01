@@ -7,8 +7,8 @@ intro: "I was trying to make Swiss Rosti from leftover sweet potato, without a r
 ---
 
 <div class="simple-gallery">
-    <img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558866428/h4x2drk2kfyf9wsgufxo.jpg"/>
-    <img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558866427/fpl1cefoduleme0ckgha.jpg"/>
+    <img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558866428/h4x2drk2kfyf9wsgufxo.jpg"/>
+    <img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558866427/fpl1cefoduleme0ckgha.jpg"/>
 </div>
 
 <p>Spot the difference! I was trying to make Swiss Rosti from leftover sweet potato, without a recipe. It did not quite pan out, so I ended up scrambling the sweet potato with some left over savoury mince. Pretty yummy anyway.</p>
@@ -23,4 +23,4 @@ intro: "I was trying to make Swiss Rosti from leftover sweet potato, without a r
 
 <p>Whether you choose sweet potato or “normal” potato seems to be neither here nor there. Their carb and calorie content is very similar and each pack some important nutrients.</p>
 
-<ul data-carousel-extra="{&#34;blog_id&#34;:1,&#34;permalink&#34;:&#34;https:\/\/lowlyj.com\/potato-rosti\/&#34;}" class="wp-block-gallery columns-2 is-cropped"><li class="blocks-gallery-item"><figure><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558866429/hjqblb9nziu9ggusayax.png"/></figure></li><li class="blocks-gallery-item"><figure><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558866430/wo3kyhgvljj9mzj7l9iq.png"/></figure></li></ul>
+<ul data-carousel-extra="{&#34;blog_id&#34;:1,&#34;permalink&#34;:&#34;https:\/\/lowlyj.com\/potato-rosti\/&#34;}" class="wp-block-gallery columns-2 is-cropped"><li class="blocks-gallery-item"><figure><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558866429/hjqblb9nziu9ggusayax.png"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558866430/wo3kyhgvljj9mzj7l9iq.png"/></figure></li></ul>

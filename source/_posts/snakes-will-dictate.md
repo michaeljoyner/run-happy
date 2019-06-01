@@ -5,7 +5,7 @@ date: 2018-06-16
 categories: "running"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841589/dcflui74hzbyi08gtot3.png"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841589/dcflui74hzbyi08gtot3.png"/></p>
 <p><span>I enjoy both trail running and road running and find it hard to choose between the two. When I’m road running I can zone out and get deep into my head. If I try that while trail running it’s likely that my face will be re-arranged by a rock.</span></p>
 <p><span>Do I mix the two willy nilly or do I have two distinct seasons? The answer has just come to me – one’s running seasons should be dictated by the habits of the snake.</span></p>
 <p><span>The season for road running is from the beginning of October until the end of May (or beginning of June if Comrades is your bag). </span></p>

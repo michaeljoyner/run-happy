@@ -6,8 +6,8 @@ categories: "running"
 ---
 
 <div class="simple-gallery">
-    <img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841584/gfod0erd3yoi3wxxptme.png"/>
-    <img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841585/ocjvyjcfg0mu4ny1egnj.jpg"/>
+    <img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841584/gfod0erd3yoi3wxxptme.png"/>
+    <img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841585/ocjvyjcfg0mu4ny1egnj.jpg"/>
 </div>
 
 <p class="p1"><span class="s1">Dear Coach,</span></p>

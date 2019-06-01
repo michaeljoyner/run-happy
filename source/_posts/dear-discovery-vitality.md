@@ -5,7 +5,7 @@ date: 2017-05-25
 categories: "running"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841647/ykoixbwge89o7nsl1xms.png"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841647/ykoixbwge89o7nsl1xms.png"/></p>
 <p>Dear Discovery Vitality,</p>
 <p>I don’t like using the f word on social media but there is no other way today – I am FUCKING FURIOUS.</p>
 <p>I run 5 times a week and earn discovery vitality points for fitness. I am superbly fit which is in your interests. But now I am told that I have “reached my limit” regarding points for fitness. Does this mean you only want us to exercise for half a year? WTF people? I have 30000 points to go to reach platinum but I have reached my limits fitness-wise?</p>

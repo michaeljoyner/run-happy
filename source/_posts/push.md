@@ -5,7 +5,7 @@ date: 2018-05-31
 categories: "running"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841595/pxqvp9nthwu79yez4hli.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841595/pxqvp9nthwu79yez4hli.jpg"/></p>
 <p class="p1"><span class="s1">My female offspring are a constant source of inspiration when it comes to running matters.</span></p>
 <p class="p1"><span class="s1">The younger one has this look which she gets on her face, normally at the latter stages of a really difficult ultra (think Comrades). This look says “Don’t f*** with me. I will conquer this beast or die trying.” She is focus personified. </span></p>
 <p class="p1"><span class="s1">I have now pinned up a picture of her wearing The Look at the end of Comrades 2014. This is to remind me that when I’m running and I feel like slacking off (most of the time let’s face it), I need to slap The Look onto my face and move my arse, no matter the level of pain. Fake it until you make they say.</span></p>

@@ -5,7 +5,7 @@ date: 2014-10-22
 categories: "Uncategorized"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558842157/k1stvowacwjsvyjvgont.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558842157/k1stvowacwjsvyjvgont.jpg"/></p>
 <p> </p>
 <p>Every year a strange fever grips the running community in South Africa and, more especially, here in Kwa-Zulu Natal. At every race there are mutterings of “qualifying” and “entering”. Shall I? Shan’t I? OMG I am racked with indecision!</p>
 <p>We are entering that time of year when marathons are done as training runs, when people want to know “have you qualified yet?”, and new and marvellous plans are made to get stronger, faster, better!</p>

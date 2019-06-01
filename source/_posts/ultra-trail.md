@@ -5,7 +5,7 @@ date: 2017-12-09
 categories: "running, Uncategorized"
 ---
 
-<img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841605/rkvpudmtsy2t3eet4v4q.png"/>
+<img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841605/rkvpudmtsy2t3eet4v4q.png"/>
 <p>Oh my word, I have entered a 50-miler – on trail!</p>
 <p>Whenever I think of ultra trail I think of annoyingly fresh-looking vegans (why are they always vegans?) gliding over the Colorado      mountains, looking very happy with themselves. I’m sure they also do CrossFit. A far cry from my huffing and puffing and screaming hysterically about snakes, cliffs and other hazards.</p>
 <p>Good Lord! I suddenly need to gather all the information that I can about running trail for 12 hours and possibly a lot longer. I also have to finish an assignment for a writing course and I do love to kill two birds with one stone. I will do an article about 50-milers for beginners! After spending hours scouring the internet and reading blogs, articles etc by the North American gods of trail I came up with the following:</p>

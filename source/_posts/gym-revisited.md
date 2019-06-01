@@ -5,7 +5,7 @@ date: 2014-08-10
 categories: "Uncategorized"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558842174/h5xmbxgoy8ndr1izsqo8.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558842174/h5xmbxgoy8ndr1izsqo8.jpg"/></p>
 <p> </p>
 <p>I did say a few months back that I was not going to bother with my heart rate during our gym classes – I actually go to them more for the small-town social life than anything else,  though a bit of cross training never hurt anyone.</p>
 <p>But I’m a sucker for numbers and stats – tracking them,  thinking about them,  even watching them on the console of the treadmill!</p>

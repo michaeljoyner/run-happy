@@ -5,7 +5,7 @@ date: 2019-03-04
 categories: "Mountain Biking, running"
 ---
 
-<figure class="wp-block-image is-resized"><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558866454/zbxfmzptjn5h1wayk8d0.jpg"/></figure>
+<figure class="wp-block-image is-resized"><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558866454/zbxfmzptjn5h1wayk8d0.jpg"/></figure>
 
 
 
@@ -37,6 +37,6 @@ categories: "Mountain Biking, running"
 
 
 
-<figure class="wp-block-image is-resized"><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558866455/f41s7gkyf9qjznbppnxr.jpg"/></figure>
+<figure class="wp-block-image is-resized"><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558866455/f41s7gkyf9qjznbppnxr.jpg"/></figure>
 
 

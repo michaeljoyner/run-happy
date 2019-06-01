@@ -5,8 +5,8 @@ date: 2018-08-14
 categories: "running"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841555/afg20kl7nroa6o73udvf.jpg"/></p>
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841556/l24zqz0totpmngebsdqo.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841555/afg20kl7nroa6o73udvf.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841556/l24zqz0totpmngebsdqo.jpg"/></p>
 <p>Dear Coach,</p>
 <p>As you know I was VERY apprehensive about 50km on trail but WOW what an awesome experience the Umgeni River Run was.</p>
 <p>We took it easy, walking the uphills, running the downs and doing our best in between which means we weren’t really too shattered when we came in. I am now confident that, unless I am eaten by a Mountain Leopard,  I will finish the 50-miler in September. In fact I am looking forward to it.</p>

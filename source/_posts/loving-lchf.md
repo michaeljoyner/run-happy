@@ -5,7 +5,7 @@ date: 2014-07-27
 categories: "Uncategorized"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558842176/sndnwaasaqo4anxwchn0.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558842176/sndnwaasaqo4anxwchn0.jpg"/></p>
 <p> </p>
 <p>I think I’ve just had the best LCHF brekkie ever.   In fact it could be served as a dessert.</p>
 <p>Put 3 TBS double thick full cream yoghurt into a bowl.  Add a good dollop of cream,  a teaspoon of macadamia nut butter,  a teaspoon of xylitol and a teaspoon of honey    Stir and smoosh together.  I don’t bother to use a food processor – way too much washing up.  It’s absolutely fine stirred and smooshed.  Once the smooshiness is correct add 4 sliced strawberries and a handful of pecan nuts,  broken into bits.   Stir in and enjoy.   Absolute heaven.</p>

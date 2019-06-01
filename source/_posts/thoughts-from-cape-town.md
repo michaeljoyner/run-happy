@@ -6,7 +6,7 @@ categories: "Uncategorized"
 ---
 
 <p> </p>
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558842168/alihynodaqq3v68j3io1.jpg"/><a href="https://lowlyj.files.wordpress.com/2014/09/dscf0441_edited-1.jpg"><br/>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558842168/alihynodaqq3v68j3io1.jpg"/><a href="https://lowlyj.files.wordpress.com/2014/09/dscf0441_edited-1.jpg"><br/>
 </a></p>
 <p>I did it!  Despite a snivelly nose and a cough that keeps me up a good portion of the night, I completed the Cape Town Marathon in 6 hours and 17 minutes.   A bit slower perhaps than I would have liked, but hey, I was there!   And it was fabulous.   The organisation, the route, the registration, the start and the finish – hell, even the weather – was perfect!</p>
 <p>Mulling over how I could describe this marathon without over-using words like awesome and fabulous, I started thinking about how running is the one sport where there is absolutely no cultural or racial divide.   We all line up together, white shoulder to black shoulder, we chat, we laugh together, commiserate over injuries, share our goals and no thought is given to social background, colour or where we come from.  If only we could get this right in our everyday lives!   Maybe us runners should run the country!</p>

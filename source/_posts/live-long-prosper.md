@@ -6,7 +6,7 @@ categories: "running"
 intro: "My primary goal in life is to be happy and healthy in my eighties. Healthy enough to run, albeit at  a shuffle. So when I spotted a Ted Talk on a 75-year study of how this can be achieved I had to listen to it."
 ---
 
-<figure class="wp-block-image"><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558866413/eudqgef1czku6eselcik.jpg"/></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558866413/eudqgef1czku6eselcik.jpg"/></figure>
 
 <p>My primary goal in life is to be happy and healthy in my eighties. Healthy enough to run, albeit at  a shuffle. So when I spotted a Ted Talk on a 75-year study of how this can be achieved I had to listen to it.</p>
 

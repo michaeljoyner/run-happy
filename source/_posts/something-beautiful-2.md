@@ -9,7 +9,7 @@ categories: "photography"
 
 
 
-<figure class="wp-block-image"><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841529/hz4mhkphg1m54opbev3w.jpg"/></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841529/hz4mhkphg1m54opbev3w.jpg"/></figure>
 
 
 
@@ -41,7 +41,7 @@ categories: "photography"
 
 
 
-<figure class="wp-block-image"><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841530/egyeitggaw40cyvtcslw.jpg"/></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841530/egyeitggaw40cyvtcslw.jpg"/></figure>
 
 
 

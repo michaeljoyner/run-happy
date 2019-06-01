@@ -5,7 +5,7 @@ date: 2015-10-29
 categories: "Uncategorized"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558842033/vyypeacszqebqshweaz4.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558842033/vyypeacszqebqshweaz4.jpg"/></p>
 <p>I have a new addiction. I also think I have found the source of the coolest tights, leggings, call them what you will, in the world.</p>
 <p>They don’t have little zippy pockets that runners need for their paraphernalia – keys, gels, drugs, cyanide tablets, revolvers etc – but they are so damn gorgeous that I really don’t care. I’ve taken to wearing a thin fuel belt under my vest to carry the bare necessities just so that I can sport my fabulous tights.</p>
 <p>And why does running gear for the older woman have to be so dreary? When you’re young, and nothing wobbles, you can wear the cutest little hot pants and the teeniest tops all in club colours. Instant fabulousness. When you’re my age and the club colours have to be worn “sensibly” so as not to alarm spectators, how boring life gets.</p>

@@ -5,7 +5,7 @@ date: 2018-06-07
 categories: "running"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841594/i2ebxgasljaqmcdwhuyh.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841594/i2ebxgasljaqmcdwhuyh.jpg"/></p>
 <p>I am my own coach and therefore accountable to myself, so here goes. This is me reporting to me.</p>
 <p>Dear Coach,</p>
 <p>I am now ten days into the program to produce a new, improved me. A me that does not fear speed, pain, hills or anything else (except for snakes obviously). A me that will build her LSD in a calculated manner, culminating in an 80 kilometre trail fest in September. Or suffer fest if we are honest. Not to worry, the new me will embrace the suffering.</p>

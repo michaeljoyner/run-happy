@@ -6,7 +6,7 @@ categories: "running, The Marathon"
 ---
 
 <figure>
-    <img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841914/opk6lnunnv25skydhrtq.jpg"/>
+    <img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841914/opk6lnunnv25skydhrtq.jpg"/>
     <figcaption>My daughter and I cruising (gracefully!) to a 5:11 finish at the Deloitte 42.2km Challenge this last weekend. She was doing an easy (?!) training run for Comrades whilst coaching me toward a faster marathon.</figcaption>
 </figure>
 <p><span>I know, I know – I missed my Comrades Qualifier by 11 minutes! I’m not too bummed because it was my best marathon in three years and I learnt a lot, mainly from said daughter.</span></p>

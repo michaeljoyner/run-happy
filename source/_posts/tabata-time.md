@@ -11,7 +11,7 @@ categories: "Uncategorized"
 <p>I have read a bit about Tabata – here is a <a title="Tabata Workout Explained" href="http://www.shape.com/fitness/cardio/4-minute-fat-burning-miracle-workout">handy link</a>.   And here is a <a title="History of Tabata" href="http://www.tabatatraining.com/tabata-protocol/">bit of background</a> about how and why Tabata was developed by the Japanese. I think it may be key to getting faster.</p>
 <p>My version of a Tabata workout is to first warm up using <a title="The Lunge Matrix" href="www.youtube.com/watch?v=9HwWKRVq0F0">Coach Jay Johnson’s Lunge Matrix</a>.  I then do squats a la <a title="Primal Fitness" href="http://www.marksdailyapple.com/action-item-4-exercise-primally-move-lift-and-sprint/#axzz3IjlB4vFH">Mark Sisson</a>.   One Tabata is basically 20 seconds of balls-to-the-wall activity followed by 10 seconds rest, repeated 8 times.   So one Tabata only takes 4 minutes.   Sounds easy but I guarantee burning of the lungs after one round if you’re doing it properly.   I use skipping (jumping rope if you’re American) for my balls-to-the-wall sections, and I do it as fast as I can.  The whole thing, warm up and one Tabata, will take me 15 minutes.   Short, sweet and effective.   Watch this space…..</p>
 <p> </p>
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558842153/t0stiafsxrzf3ogs9gbs.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558842153/t0stiafsxrzf3ogs9gbs.jpg"/></p>
 <p> </p>
 
 

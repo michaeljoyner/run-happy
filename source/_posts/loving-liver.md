@@ -5,7 +5,7 @@ date: 2014-10-05
 categories: "Uncategorized"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558842167/j7t0bcuxzwrwf6zqpaho.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558842167/j7t0bcuxzwrwf6zqpaho.jpg"/></p>
 <p> </p>
 <p> </p>
 <p>I read recently that when lions make a kill, the first meat they eat is the internal organs of the unfortunate prey.   These lions know what they’re doing.   Their instinct tells them that that particular meat is the most nutrient dense.   And look at them – handsome, strong and kings and queens of the jungle.</p>

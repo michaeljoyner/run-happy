@@ -6,7 +6,7 @@ categories: "running"
 intro: "My Old Goat turns 62 today. He is strong as an ox and never shows pain – my daughters seem to have inherited that from him. I sometimes feel I’m in the wrong family – I was clearly in the wrong queue when VASBYT was being handed out."
 ---
 
-<div class="wp-block-image"><figure class="alignright"><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558866407/bexq5bf8n9oiydzbnfl4.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="alignright"><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558866407/bexq5bf8n9oiydzbnfl4.jpg"/></figure></div>
 
 <p>My Old Goat turns 62 today. He is strong as an ox and never shows pain – my daughters seem to have inherited that from him. I sometimes feel I’m in the wrong family – I was clearly in the wrong queue when VASBYT was being handed out.</p>
 

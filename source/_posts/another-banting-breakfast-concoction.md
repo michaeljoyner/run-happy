@@ -5,7 +5,7 @@ date: 2014-08-13
 categories: "Uncategorized"
 ---
 
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558842173/ixtavhs4zsgjffc0pjn9.jpg"/><a href="https://lowlyj.files.wordpress.com/2014/08/coconut.jpg"><br/>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558842173/ixtavhs4zsgjffc0pjn9.jpg"/><a href="https://lowlyj.files.wordpress.com/2014/08/coconut.jpg"><br/>
 </a></p>
 <p> </p>
 <p>I have hated porridge since I was a child – I was obviously super-smart – those grains are evil!    But here is a Banting-friendly Coconut Porridge that takes 15 minutes to make and is delicious!   It makes a nice alternative to eggs and bacon on a cold morning when a smoothie or yoghurt  just doesn’t sound appealing.</p>

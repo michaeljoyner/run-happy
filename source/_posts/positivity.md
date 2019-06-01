@@ -15,7 +15,7 @@ categories: "Banting, running"
 <p>I have bought myself a blank journal and a nice pen (I’m a sucker for new stationery – any excuse!) and I am writing a Positivity Journal. Every day I must write about the little victories that I have celebrated that day. For example, running uphill for 9 minutes straight without thinking about walking, or nailing the required pace for a specific workout. Under that I have to write about what I am grateful for that particular day.</p>
 <p>I can actually feel this working. When I go out for my run I’m already thinking about the victory that I want to celebrate in my journal – it completely overrides any negativity.</p>
 <p>And you don’t have to be a runner to use this tool. You may be someone that needs to start taking a little walk every day. Or someone that needs to break a sugar addiction. Your goal can be huge or it can be small – just have a goal and be positive about it!</p>
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841779/igpy4kvoxug642zj8phu.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841779/igpy4kvoxug642zj8phu.jpg"/></p>
 
 
 

@@ -7,8 +7,8 @@ intro: "Who needs weights when you can lift bicycles? Introducing the poster gir
 ---
 
 <div class="simple-gallery">
-    <img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558866414/qcnv4mngdt5t6z6hfcyr.jpg"/>
-    <img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558866416/ovkijtmdvcuogz8gutmh.jpg"/>
+    <img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558866414/qcnv4mngdt5t6z6hfcyr.jpg"/>
+    <img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558866416/ovkijtmdvcuogz8gutmh.jpg"/>
 </div>
 
 <p>Who needs weights when you can lift bicycles? Introducing the poster girls for the Old Ducks Cycling Association!</p>

@@ -6,7 +6,7 @@ categories: "Mountain Biking, running"
 intro: "I have decided that this year, for those that can’t get to Cape Town, we will host the “No Oceans”.  Who needs Oceans? Anyway I have noticed that the half marathon at Two Oceans actually involves vokol oceans. To see the oceans one has to run, walk or crawl a gruelling 56km."
 ---
 
-<figure class="wp-block-image"><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558866433/vsazb1zqyuhjfwcnpyki.jpg"/></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558866433/vsazb1zqyuhjfwcnpyki.jpg"/></figure>
 
 <p>As it is held on Easter weekend every year, Two Oceans memories have been popping up on social media.</p>
 

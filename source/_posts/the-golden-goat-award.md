@@ -6,7 +6,7 @@ categories: "running"
 ---
 
 <p>Here is a picture of the Old Goat powering his mighty frame to a 57 minute PB at the Deloitte 10km Challenge!</p>
-<p><img src="http://res.cloudinary.com/dy6grlu8z/image/upload/v1558841912/rmdov0gtibwd6ih7bexy.jpg"/></p>
+<p><img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1558841912/rmdov0gtibwd6ih7bexy.jpg"/></p>
 <p>I don’t think he’s even sweating…..</p>
 <p>This has led to a bit of competition amongst the over 50’s in his travelling harem, mainly instigated by yours truly! Us ladies need to break this time over the 10km. The best I’ve ever done is 60 minutes at the TotalSports Ladies run but that was a flat race and I was paced by both daughters who were taking no shit that day!</p>
 <p>So here is my plan (I do so love a plan!): I will race only 10km races from now until the end of August and I will train accordingly, short stuff with lots of strength work.</p>
