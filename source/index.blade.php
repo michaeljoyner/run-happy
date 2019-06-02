@@ -17,7 +17,7 @@
     {{-- <p class="text-xl lg:text-3xl text-center">Thoughts from the back of the pack</p> --}}
 </header>
 <div class="flex flex-col lg:flex-row w-contained max-w-full mx-auto">
-    <div class="w-100 max-w-full px-8 sm-order-2 bg-black text-white lg:text-black lg:bg-white">
+    <div class="w-full lg:w-100 max-w-full px-8 sm-order-2 bg-black text-white lg:text-black lg:bg-white">
         <div class="w-64 max-w-full mx-auto pb-20">
             <img src="https://res.cloudinary.com/dy6grlu8z/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1558866559/faey33w1otwrk0alusn5.jpg" alt="LowlyJ" class="block w-32 h-32 rounded-full my-12 lg:ml-0 ml-auto mr-auto">
             <p class="text-xl">Hi, I'm Lowly.</p>
