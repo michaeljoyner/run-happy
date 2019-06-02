@@ -7,7 +7,8 @@ return [
         'posts' => [
             'author' => 'Lowly',
             'extends' => '_layouts.posts.page',
-            'sort' => ['-date']
+            'sort' => ['-date'],
+            'path' => '{slug}'
         ],
     ],
 ];
