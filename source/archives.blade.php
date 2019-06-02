@@ -13,7 +13,7 @@
     <p class="text-xl lg:text-3xl text-center">Archives</p>
 </header>
 <div class="flex flex-col lg:flex-row w-contained max-w-full mx-auto">
-    <div class="w-100 max-w-full px-8 mb-12">
+    <div class="w-100 max-w-full px-8 mb-12 mx-auto">
         <div class="w-64 max-w-full mx-auto">
             {{-- <img src="https://res.cloudinary.com/dy6grlu8z/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1558866559/faey33w1otwrk0alusn5.jpg" alt="LowlyJ" class="block w-32 h-32 rounded-full my-12 ml-0 mr-auto"> --}}
             <p class="text-xl mb-8">Welcome to memory lane.</p>

@@ -10,7 +10,7 @@
 @section('body')
 <header class="mb-24 mt-12 overflow-hidden">
     {{-- <h1 class="my-0 text-center text-5xl lg:text-banner font-display">Run Happy</h1> --}}
-    <p class="max-w-xl mx-auto banner-text uppercase text-gray-300 font-display font-black">
+    <p class="max-w-full text-center mx-auto banner-text uppercase text-gray-300 font-display font-black">
         <span class="text-sunset">run</span>eatlivesee
         be<span class="text-sunset">happy</span>thrive
     </p>

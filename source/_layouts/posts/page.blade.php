@@ -8,7 +8,7 @@
 @endsection
 
 @section('body')
-<article class="max-w-3xl mx-auto leading-normal px-4 pt-12">
+<article class="max-w-xl lg:max-w-3xl mx-auto leading-normal px-4 pt-12">
     <header class="mb-12">
     <p class="uppercase text-gray-600 text-xs">{{ $page->categories }}</p>
         <h1 class="text-3xl lg:text-4xl font-body font-bold">{!! $page->title !!}</h1>
