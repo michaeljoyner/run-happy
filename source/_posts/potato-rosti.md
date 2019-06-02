@@ -2,7 +2,7 @@
 title: Potato Rosti
 slug: potato-rosti
 date: 2019-04-17
-categories: "Helthy Eating"
+categories: "Healthy Eating"
 intro: "I was trying to make Swiss Rosti from leftover sweet potato, without a recipe. It did not quite pan out, so I ended up scrambling the sweet potato with some left over savoury mince. Pretty yummy anyway."
 ---
 

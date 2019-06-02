@@ -1,6 +1,7 @@
 let mix = require("laravel-mix");
 let build = require("./tasks/build.js");
 let tailwindcss = require("tailwindcss");
+require("laravel-mix-purgecss");
 
 mix.setPublicPath("source/assets/build");
 mix.webpackConfig({
@@ -21,5 +22,9 @@ mix
   .less("source/_assets/less/main.less", "css")
   .options({
     postCss: [tailwindcss("./tailwind.config.js")]
+  })
+  .purgeCss({
+    folders: ["source"],
+    extensions: ["html", "js", "php", "vue", "md"]
   })
   .version();
