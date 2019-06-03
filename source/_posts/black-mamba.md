@@ -3,7 +3,7 @@ title: "Black Mamba"
 date: 2019-06-02
 slug: "black-mamba"
 categoriies: "cycling"
-intro: "The psoas is a deep-seated core muscle that attaches your thigh bone to the vertebrae of your lower back. Apparently it needs to be released."
+intro: "The Old Goat’s new bicycle has arrived, a beautiful beast to behold. It has been named The Black Mamba."
 ---
 
 <img src="https://res.cloudinary.com/dy6grlu8z/image/upload/w_1000,c_scale/v1559523199/fullsizeoutput_29d5-10_fnl4nh.jpg" alt="the old goat and his black mamba bicycle" />
