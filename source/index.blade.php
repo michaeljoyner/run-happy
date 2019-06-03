@@ -11,7 +11,7 @@
 <header class="mb-24 mt-12 overflow-hidden">
     {{-- <h1 class="my-0 text-center text-5xl lg:text-banner font-display">Run Happy</h1> --}}
     <p class="max-w-full text-center mx-auto banner-text uppercase text-gray-300 font-display font-black">
-        <span class="text-sunset">run</span>eatlivesee
+        <span class="text-sunset">run</span>eatlivesee<br/>
         be<span class="text-sunset">happy</span>thrive
     </p>
     {{-- <p class="text-xl lg:text-3xl text-center">Thoughts from the back of the pack</p> --}}
