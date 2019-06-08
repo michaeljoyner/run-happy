@@ -3,7 +3,7 @@ title: "Thank You Snoopy!"
 slug: thank-you-snoopy
 date: 2019-06-08
 categories: "Running"
-intro: "One needs look no further than Snoopy for wisdom and inspiration. This time it is all about find balance in life and in running."
+intro: "One needs look no further than Snoopy for wisdom and inspiration. This time it is all about finding balance in life and in running."
 ---
 
 <img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1559984806/Life_is_about_balance-10_s9n5i7.jpg" alt="Snoopy does a balancing act on the roof of his kennel">
