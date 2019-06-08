@@ -2,7 +2,7 @@
 title: "Black Mamba"
 date: 2019-06-02
 slug: "black-mamba"
-categoriies: "cycling"
+categories: "cycling"
 intro: "The Old Goat’s new bicycle has arrived, a beautiful beast to behold. It has been named The Black Mamba."
 ---
 

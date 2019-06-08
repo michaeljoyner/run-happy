@@ -2,7 +2,7 @@
 title: "Release your what?"
 date: 2019-06-02
 slug: "release-your-what"
-categoriies: "running"
+categories: "running"
 intro: "The psoas is a deep-seated core muscle that attaches your thigh bone to the vertebrae of your lower back. Apparently it needs to be released."
 ---
 
