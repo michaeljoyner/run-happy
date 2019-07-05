@@ -2,7 +2,7 @@
 title: "A New Season, A new Love"
 slug: a-new-season-a-new-love
 date: 2019-07-05
-categories: ""
+categories: "Running"
 intro: "Once again I have a new love in my life - move over Old Goat! Let me introduce my lovely new New Balance 890 V7s"
 ---
 
