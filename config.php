@@ -10,5 +10,11 @@ return [
             'sort' => ['-date'],
             'path' => '{slug}'
         ],
+        'galleries' => [
+            'extends' => '_layouts.galleries.page',
+            'sort' => ['-date'],
+            'path' => '/galleries/{slug}'
+        ]
     ],
+    
 ];
