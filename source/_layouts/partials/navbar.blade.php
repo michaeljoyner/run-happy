@@ -5,6 +5,7 @@
         </a>
     </div>
     <div class="flex justify-end items-center">
+        <a href="/galleries" class="mx-4 no-underline text-black font-display hover:text-red-700 uppercase">Galleries</a>
         <a href="/archives" class="no-underline text-black font-display hover:text-red-700 uppercase">Archives</a>
     </div>
 </div>
