@@ -24,8 +24,8 @@ class GetGalleries
     }
 
     private function fetchGalleries() {
-        return $this->listFolders()->flatMap(function($folder) use ($jigsaw) {
-            $params = ["prefix" => $folder['path'], "type" => "upload", "context" => true];
+        return $this->listFolders()->flatMap(function($folder) {
+            $params = ["prefix" => $folder['path'], "type" => "upload", "context" => true, "max_results" => 50];
             $response = Zttp::get($this->makeUrl("resources/image", $params));
             return [$this->slugName($folder['name']) => json_decode($response->body(), true)['resources']];
         })->all();

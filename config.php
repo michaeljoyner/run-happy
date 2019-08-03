@@ -13,9 +13,15 @@ return [
         'galleries' => [
             'extends' => '_layouts.galleries.page',
             'sort' => ['-date'],
-            'path' => '/galleries/{slug}'
+            'path' => '/galleries/{section}/{slug}'
         ]
     ],
+    'photo_categories' => [
+        'travel' => [
+            'description' => 'I love to travel. Here, there, everywhere.',
+            'cover_image' => 'https://res.cloudinary.com/dy6grlu8z/image/upload/c_scale,w_1211/v1564061182/Jiji/IMG_2958_mu4ek3.jpg'
+        ]
+    ]
     
     
 ];
