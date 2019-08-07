@@ -8,7 +8,7 @@
           sizes="(min-width: 800px) 800px, 100vw"
           @click="setSelectedImage(image)"
         />
-        <figcaption class="px-4 text-sm">{{ image.caption }}</figcaption>
+        <figcaption class="px-3 text-sm">{{ image.caption }}</figcaption>
       </figure>
     </div>
     <div
