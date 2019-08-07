@@ -1,4 +1,8 @@
 import Flickity from "flickity";
+import Vue from "vue";
+import PhotoGallery from "./components/PhotoGallery";
+
+Vue.component("photo-gallery", PhotoGallery);
 
 window.addEventListener("load", () => {
   console.log("starting");
@@ -13,4 +17,7 @@ window.addEventListener("load", () => {
       })
   );
 });
-console.log("starting one");
+
+new Vue({
+  el: "#app"
+});

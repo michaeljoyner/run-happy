@@ -25,6 +25,7 @@
     },
     "dependencies": {
         "flickity": "^2.2.0",
-        "laravel-mix-purgecss": "^4.1.0"
+        "laravel-mix-purgecss": "^4.1.0",
+        "vue": "^2.6.10"
     }
 }

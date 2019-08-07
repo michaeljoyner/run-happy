@@ -10,9 +10,12 @@
 
     </head>
     <body class="font-body text-black font-light">
+    <div id="app">
         @include('_layouts.partials.navbar')
         @yield('body')
         @include('_layouts.partials.footer')
+    </div>
+        
 
         <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
     </body>

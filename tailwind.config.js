@@ -7,6 +7,7 @@ module.exports = {
     extend: {
       colors: {
         black: "#262525",
+        "dark-op": "rgba(38,37,37,.5)",
         sunset: "#d34f37"
       },
       fontSize: {},
