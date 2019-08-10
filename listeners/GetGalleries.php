@@ -47,8 +47,8 @@ class GetGalleries
     }
 
     private function makeUrl($uri, $params = []) {
-        $api_key = "333747127437729";
-        $api_secret = "azsD1P_hff-C-15au0CGN4SlQTw";
+        $api_key = getenv("CLOUDINARY_KEY");
+        $api_secret = getenv("CLOUDINARY_SECRET");
         $cloud = "dy6grlu8z";
 
         $base = "https://{$api_key}:{$api_secret}@api.cloudinary.com/v1_1/{$cloud}/";
