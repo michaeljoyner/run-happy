@@ -7,4 +7,4 @@ section: travel
 description: "Visiting favourite child and his younger brother in Taiwan"
 ---
 
-Yo, you randy sons of bitches
+This is where the longer blurb goes.
