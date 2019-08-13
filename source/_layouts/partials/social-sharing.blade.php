@@ -5,7 +5,7 @@
            class="no-underline text-black hover:text-sunset mx-4">
             @include('_layouts.svgicons.social.facebook', ['svgClasses' => 'fill-current'])
         </a>
-        <a href="https://twitter.com/home?status={{ urlencode($page->title . ' ' . $page->getUrl()) }}"
+        <a href="https://twitter.com/intent/tweet?text={{ urlencode($page->title . ' ' . $page->getUrl()) }}"
            class="no-underline text-black hover:text-sunset mx-4">
             @include('_layouts.svgicons.social.twitter', ['svgClasses' => 'fill-current'])
         </a>
