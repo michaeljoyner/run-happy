@@ -4586,7 +4586,7 @@ var render = function() {
             }
           }),
           _vm._v(" "),
-          _c("figcaption", { staticClass: "px-4 text-sm" }, [
+          _c("figcaption", { staticClass: "px-3 text-sm" }, [
             _vm._v(_vm._s(image.caption))
           ])
         ])
