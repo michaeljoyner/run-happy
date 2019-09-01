@@ -6,6 +6,8 @@ categories: "running, cycling"
 intro: "This time three weeks I will be alternately licking my wounds and eating like a piranha on steroids. Always fun."
 ---
 
+This time three weeks I will be alternately licking my wounds and eating like a piranha on steroids. Always fun.
+
 <img alt="a hand drawn pirhana. Not quite da vinci level of art" src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1567342032/lrsegi8txh6jnf9gry7m.png"/>
 According to my personal web designer I can’t just steal random cartoon drawings from anywhere so I have graced this post with my own rendition of a piranha.
 
