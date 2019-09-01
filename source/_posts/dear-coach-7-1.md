@@ -8,7 +8,7 @@ intro: "This time three weeks I will be alternately licking my wounds and eating
 
 This time three weeks I will be alternately licking my wounds and eating like a piranha on steroids. Always fun.
 
-<img alt="a hand drawn pirhana. Not quite da vinci level of art" src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1567342032/lrsegi8txh6jnf9gry7m.png"/>
+<img alt="a hand drawn piranha. Not quite da vinci level of art" src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1567342032/lrsegi8txh6jnf9gry7m.png"/>
 According to my personal web designer I can’t just steal random cartoon drawings from anywhere so I have graced this post with my own rendition of a piranha.
 
 But back to the Great Trek. I have started obsessing about the weather - three weeks out is not too soon right? Two days ago it showed continuous rain for the 21st September - day and night. I had just resigned myself to that and planned numerous drop bags for the day when they changed their minds. Now it looks pretty okay - too good to be true actually. I’m picturing myself frolicking through the Karkloof, butterflies and flowers everywhere.
