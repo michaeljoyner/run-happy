@@ -5,7 +5,6 @@ import PhotoGallery from "./components/PhotoGallery";
 Vue.component("photo-gallery", PhotoGallery);
 
 window.addEventListener("load", () => {
-  console.log("starting");
   const galleries = document.querySelectorAll(".simple-gallery");
 
   galleries.forEach(

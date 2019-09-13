@@ -17,7 +17,7 @@
     >
       <div
         class="absolute top-0 right-0 text-white text-2xl pr-4 pt-4"
-        @click="show_selected = false"
+        @click="closeSelected"
       >&times;</div>
       <img :srcset="selected_source" alt class="max-h-full max-w-6xl" />
       <p
@@ -59,9 +59,11 @@ export default {
   mounted() {
     document.body.addEventListener("keyup", ({ key }) => {
       if (key === "Escape") {
-        this.show_selected = false;
+        this.closeSelected();
       }
     });
+
+    window.addEventListener("popstate", () => (this.show_selected = false));
   },
 
   computed: {
@@ -88,7 +90,17 @@ export default {
 
     setSelectedImage(image) {
       this.selected_image = image;
+      window.history.pushState({ show_img: true }, "", "");
       this.show_selected = true;
+    },
+
+    closeSelected() {
+      window.history.back();
+      this.show_selected = false;
+    },
+
+    whenPopped(ev) {
+      console.log(ev);
     }
   }
 };

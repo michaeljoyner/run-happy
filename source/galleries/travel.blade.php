@@ -1,5 +1,13 @@
 @extends('_layouts.master')
 
+@section('head')
+    @include('_layouts.partials.ogmeta', [
+        'ogTitle' => 'Travel Photos | Run Happy',
+        'ogDescription' => 'Travelling provides a great opportunity to snap some memorable pic, whether they are of dearly missed family members or exotic locations.',
+        'ogImage' => 'https://res.cloudinary.com/dy6grlu8z/image/upload/c_fill,h_630,w_1200/v1564061182/Jiji/IMG_2958_mu4ek3.jpg'
+    ])
+@endsection
+
 @section('body')
 
 <header class="my-12">

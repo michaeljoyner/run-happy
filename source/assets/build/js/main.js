@@ -191,8 +191,11 @@ function makeSourceSet(sizes, version, public_id) {
       var key = _ref.key;
 
       if (key === "Escape") {
-        _this.show_selected = false;
+        _this.closeSelected();
       }
+    });
+    window.addEventListener("popstate", function () {
+      return _this.show_selected = false;
     });
   },
   computed: {
@@ -215,7 +218,17 @@ function makeSourceSet(sizes, version, public_id) {
     },
     setSelectedImage: function setSelectedImage(image) {
       this.selected_image = image;
+      window.history.pushState({
+        show_img: true
+      }, "", "");
       this.show_selected = true;
+    },
+    closeSelected: function closeSelected() {
+      window.history.back();
+      this.show_selected = false;
+    },
+    whenPopped: function whenPopped(ev) {
+      console.log(ev);
     }
   }
 });
@@ -4606,11 +4619,7 @@ var render = function() {
               {
                 staticClass:
                   "absolute top-0 right-0 text-white text-2xl pr-4 pt-4",
-                on: {
-                  click: function($event) {
-                    _vm.show_selected = false
-                  }
-                }
+                on: { click: _vm.closeSelected }
               },
               [_vm._v("×")]
             ),
@@ -16900,7 +16909,6 @@ __webpack_require__.r(__webpack_exports__);
 
 vue__WEBPACK_IMPORTED_MODULE_1___default.a.component("photo-gallery", _components_PhotoGallery__WEBPACK_IMPORTED_MODULE_2__["default"]);
 window.addEventListener("load", function () {
-  console.log("starting");
   var galleries = document.querySelectorAll(".simple-gallery");
   galleries.forEach(function (gallery) {
     return new flickity__WEBPACK_IMPORTED_MODULE_0___default.a(gallery, {

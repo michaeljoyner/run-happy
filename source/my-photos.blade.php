@@ -2,8 +2,8 @@
 
 @section('head')
     @include('_layouts.partials.ogmeta', [
-        'ogTitle' => 'Run Happy - A Long Slow Journey',
-        'ogDescription' => 'Running happy well into my twilight years is my mission- join me on my journey, as I indulge myself in loads of research and experiments to achieve just that.'
+        'ogTitle' => 'My Photos | Run Happy',
+        'ogDescription' => 'If you have been foloowing closely, you will know I have a passion for photography. This is a collection of photos I want to keep a record of, organised into categories and galleries.'
     ])
 @endsection
 

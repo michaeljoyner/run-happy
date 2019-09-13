@@ -18,7 +18,7 @@ return [
     ],
     'photo_categories' => [
         'travel' => [
-            'description' => 'I love to travel. Here, there, everywhere.',
+            'description' => 'Travelling provides a great opportunity to snap some memorable pic, whether they are of dearly missed family members or exotic locations.',
             'cover_image' => 'https://res.cloudinary.com/dy6grlu8z/image/upload/c_scale,w_1211/v1564061182/Jiji/IMG_2958_mu4ek3.jpg'
         ]
     ]

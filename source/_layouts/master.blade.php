@@ -9,7 +9,7 @@
         @yield('head')
 
     </head>
-    <body class="font-body text-black font-light">
+    <body class="font-body font-light {{ $theme === 'dark' ? 'text-gray-100 bg-gray-800' : 'text-black bg-white' }}">
     <div id="app">
         @include('_layouts.partials.navbar')
         @yield('body')
