@@ -17,7 +17,7 @@
         <div class="w-64 max-w-full mx-auto">
             {{-- <img src="https://res.cloudinary.com/dy6grlu8z/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1558866559/faey33w1otwrk0alusn5.jpg" alt="LowlyJ" class="block w-32 h-32 rounded-full my-12 ml-0 mr-auto"> --}}
             <p class="text-xl mb-8">Welcome to memory lane.</p>
-            <p>Just like a good run, my writing career has been long, with it's fair share of uphills and downhills. Feel free to take a browse around to see if you come across anything that tickles your facncy.</p>
+            <p>Just like a good run, my writing career has been long, with it's fair share of uphills and downhills. Feel free to take a browse around to see if you come across anything that tickles your fancy.</p>
         </div>
         
 
