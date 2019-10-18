@@ -27,6 +27,5 @@ Here are my initial ideas:
 - I will find rocks to climb up and down and will try and refrain from crying.
 - I will do step ups onto a high box EVERY SINGLE DAY until I can do 100 with perfect form and without breaking a sweat.
 - I will not cheat in gym and I will smile lovingly at the Bosu Ball – good balance is what I need.
-- I’ll keep you posted.
 
-PS My picture, by Phonix Capture at the 2018 race, is taken off the Kruger2Canyon website
+I’ll keep you posted.
