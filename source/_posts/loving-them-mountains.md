@@ -8,12 +8,12 @@ intro: "What a weekend! Fabulous company, a World Cup win, an awesome trail, del
 
 <figure>
     <img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1572914888/pfrnyvpdqt1oxjmf7c6y.jpg" alt="lady running up a rural mountain path"/>
-    <figcaption class="text-center">I have found my own local Mariepskop - a few times up and down here and I’m ready for Kruger2Canyon next year.</figcaption>
+    <figcaption class="text-center text-sm -mt-3">I have found my own local Mariepskop - a few times up and down here and I’m ready for Kruger2Canyon next year.</figcaption>
 </figure>
 
 <figure>
     <img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1572914887/vdnwiuhxib6ylw68p0kd.jpg" alt="runner on a graasy peak in the lower Southern Drakensberg"/>
-    <figcaption class="text-center">So stoked to be on top of the world - this mountain thing is getting easier.</figcaption>
+    <figcaption class="text-center text-sm -mt-3">So stoked to be on top of the world - this mountain thing is getting easier.</figcaption>
 </figure>
 
 What a weekend! Fabulous company, a World Cup win, an awesome trail, delicious spit braai and a 45km cycle on our beautiful country roads - definitely my kind of weekend.
