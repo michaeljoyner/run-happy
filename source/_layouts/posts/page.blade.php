@@ -4,7 +4,7 @@
     @include('_layouts.partials.ogmeta', [
         'ogTitle' => $page->title,
         'ogDescription' => $page->intro ?? '',
-        'ogImage' => $page->og_image,
+        'ogImage' => $page->og_image ?? null,
     ])
 @endsection
 
