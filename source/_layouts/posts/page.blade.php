@@ -3,7 +3,8 @@
 @section('head')
     @include('_layouts.partials.ogmeta', [
         'ogTitle' => $page->title,
-        'ogDescription' => $page->intro ?? ''
+        'ogDescription' => $page->intro ?? '',
+        'ogImage' => $page->og_image,
     ])
 @endsection
 
