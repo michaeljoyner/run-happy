@@ -2,7 +2,7 @@
 title: "Ready for the UK"
 slug: ready-for-the-uk
 date: 2020-02-23
-categories: "travel,running"
+categories: "travel, running"
 intro: "There are many things that one simply cannot do and one of them is to enter a fell race in the UK without buying new shoes."
 og_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExNjk0OX0&w=1200&h=630&fit=crop"
 ---
