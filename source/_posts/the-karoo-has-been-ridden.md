@@ -3,7 +3,7 @@ title: "The Karoo has been Ridden"
 slug: the-karoo-has-been-ridden
 date: 2020-02-24
 categories: "cycling, konfyt"
-intro: "The Karoo is a harsh place, and it's inhabitants are as tough as they come. But with roosterkoek, vetkoek and endless different types of konfyt on the line (not to mention the craft beer), I can be just as tough. Winds nor heat can keep me back."
+intro: "The Karoo is a harsh place, and it's inhabitants are as tough as they come. But with roosterkoek, vetkoek and endless different types of konfyt on the line (not to mention the craft beer), I can be just as tough. Neither wind nor heat can keep me back."
 og_image: "https://res.cloudinary.com/dy6grlu8z/image/upload/c_fill,h_630,w_1200/v1582551345/pjmxx9l3rcqxcrfp7qz7.jpg"
 ---
 
