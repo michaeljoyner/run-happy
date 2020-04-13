@@ -3,7 +3,7 @@ title: "A Race to Remember"
 slug: a-race-to-remember
 date: 2020-04-08
 categories: "running"
-intro: "A have the rare treat of running a marathon with one of my speedy daughters. One of us is about to have a baby, and the other is about to have a heart attack."
+intro: "I have the rare treat of running a half marathon with one of my speedy daughters. One of us is about to have a baby, and the other is about to have a heart attack."
 og_image: "https://res.cloudinary.com/dy6grlu8z/image/upload/c_fill,g_north,h_630,w_1200/v1586305705/kmz99h2bmqkttfmnilni.jpg"
 ---
 
