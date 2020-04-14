@@ -30,7 +30,7 @@
         <p>{{ $gallery->description }}</p>
     </div>
     <a class="block w-full md:w-1/2" href="{{ $gallery->getPath() }}">
-        <img src="https://res.cloudinary.com/dy6grlu8z/image/upload/c_scale,w_500/v{{ $image->version }}/{{ $image->public_id }}" alt="cover image for {{ $gallery->title }} gallery" class="w-full h-full">
+        <img src="https://res.cloudinary.com/dy6grlu8z/image/upload/c_scale,w_500/v{{ $image->version }}/{{ $image->public_id }}" alt="cover image for {{ $gallery->title }} gallery" class="w-full h-full object-contain">
     </a>
     {{-- @foreach($images as $image)
         <img class="inline" src="https://res.cloudinary.com/dy6grlu8z/image/upload/c_scale,w_300/v{{ $image->version }}/{{ $image->public_id }}" alt="" class="my-4">
