@@ -1,5 +1,5 @@
 ---
-title: "Squares, Towers and macabe Menageries"
+title: "Squares, Towers and Macabre Menageries"
 date: 2020-04-17
 cloud_folder: "trafalgar-tower"
 slug: "macabe-menageries"
