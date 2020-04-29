@@ -1,5 +1,5 @@
 ---
-title: "Derwent Hitsory"
+title: "Derwent History"
 date: 2020-04-13
 cloud_folder: "derwentdam"
 slug: "derwent-history"
