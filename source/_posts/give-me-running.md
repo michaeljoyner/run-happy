@@ -3,7 +3,7 @@ title: "Give me Running, Give me Sunshine"
 slug: give-me-running
 date: 2020-04-29
 categories: "running philosophy"
-intro: "It has taken many years of quiet contemplation, but I have finally realized that the ever burning, never caring, and cancer causing sun brings me more happiness than my children. In fact, the children don't even make the top two, not with all the joy running brings me."
+intro: "I have realized that there are only two simple ingredients for true happiness in life, and I seem to have been blessed with plenty of both. I also completed a 48km ultra, and made another discover along the weary way.
 og_image: "https://res.cloudinary.com/dy6grlu8z/image/upload/c_fill,h_630,w_1200/v1588170442/r1tn7jvq9kfqsx1desiq.jpg"
 ---
 
