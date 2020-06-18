@@ -16,7 +16,7 @@
         <p class="text-gray-600 mt-2">
         {{ date('j F, Y', $page->date) }}
         @if($page->guest_name)
-        
+        <span class="mx-4 px-2 py-1 rounded-lg text-xs bg-sunset text-white">{{ $page->guest_name }}</span>
         @endif
         </p>
         
