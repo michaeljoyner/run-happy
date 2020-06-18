@@ -4,7 +4,6 @@ slug: you-have-to-walk-before-you-run
 date: 2020-06-18
 categories: "running, pregnancy, comrades"
 intro: "From Comrades to childbirth and back to Comrades - follow the trials and tribulations of a new mum who would love to bag her 10th medal next year."
-og_image: "&w=1200&h=630&fit=crop"
 guest_name: "Steph's diary"
 ---
 
