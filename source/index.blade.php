@@ -29,7 +29,13 @@
     @foreach($posts->take(15) as $post)
         <div class="my-12">
             <p class="mb-0"><a class="text-black text-2xl font-semibold no-underline hover:text-sunset" href="{{ $post->getPath() }}">{!! $post->title !!}</a></p>
-            <p class="mt-0 mb-4 text-gray-600">{{ date('F j, Y', $post->date) }}</p>
+            <div class="flex items-center mb-4">
+                <p class="mt-0 text-gray-600">{{ date('F j, Y', $post->date) }}</p>
+                @if($post->guest_name)
+                <span class="mx-4 px-2 py-1 rounded-lg text-xs border border-sunset">{{ $post->guest_name }}</span>
+                @endif
+            </div>
+            
             <p class="leading-normal">{{ $post->intro }}</p>
         </div>
     @endforeach

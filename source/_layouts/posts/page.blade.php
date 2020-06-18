@@ -13,7 +13,12 @@
     <header class="mb-12">
     <p class="uppercase text-gray-600 text-xs">{{ $page->categories }}</p>
         <h1 class="text-3xl lg:text-4xl font-body font-bold">{!! $page->title !!}</h1>
-        <p class="text-gray-600 mt-2">{{ date('j F, Y', $page->date) }}</p>
+        <p class="text-gray-600 mt-2">
+        {{ date('j F, Y', $page->date) }}
+        @if($page->guest_name)
+        
+        @endif
+        </p>
         
     </header>
     
