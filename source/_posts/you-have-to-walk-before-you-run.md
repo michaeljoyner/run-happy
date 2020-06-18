@@ -1,5 +1,5 @@
 ---
-title: "You have to walk before you run"
+title: "You Have to Walk Before you Run"
 slug: you-have-to-walk-before-you-run
 date: 2020-06-18
 categories: "running, pregnancy, comrades"
