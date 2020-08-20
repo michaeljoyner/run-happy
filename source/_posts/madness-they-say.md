@@ -3,7 +3,7 @@ title: "Madness They Say!"
 slug: madness-they-say
 date: 2020-08-19
 categories: "mental health"
-intro: "Coranavirus and the resulting lockdown have bought us many things, but when all is settled and done, I will still have a special place in my heart for Irene Running Club. Read on to see why."
+intro: "Coranavirus and the resulting lockdown have brought us many things, but when all is settled and done, I will still have a special place in my heart for Irene Running Club. Read on to see why."
 og_image: "https://res.cloudinary.com/dy6grlu8z/image/upload/c_fill,h_630,w_1200/v1597811420/xmck4tcpbsgose43dbfn.jpg"
 ---
 
