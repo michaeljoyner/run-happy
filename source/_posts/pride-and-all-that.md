@@ -3,7 +3,7 @@ title: "Pride and all that..."
 slug: pride-and-all-that
 date: 2020-09-25
 categories: "running"
-intro: "I get the chance to put my speedwork to the test. I make a valiant attempt of it, despite the conditions, but it comes at a cost."
+intro: "I get the chance to put my speedwork to the test. I make a valiant attempt at it, despite the conditions, but it comes at a cost."
 og_image: "https://images.unsplash.com/photo-1509099652299-30938b0aeb63?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExNjk0OX0&w=1200&h=630&fit=crop"
 ---
 
