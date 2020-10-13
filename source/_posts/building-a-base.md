@@ -3,7 +3,7 @@ title: "Building a Base"
 slug: building-a-base
 date: 2020-10-13
 categories: "postpartum strength"
-intro: "Just under 20 weeks postpartum, and my plucky partner is already clocking times that would make many a seasoned seasoned runner jealous. She says she got there by building a base, but seeing as I have no military experience I'll let her explain."
+intro: "Just under 20 weeks postpartum, and my plucky partner is already clocking times that would make many a seasoned runner jealous. She says she got there by building a base, but seeing as I have no military experience I'll let her explain."
 og_image: "https://images.unsplash.com/photo-1601985025607-4dd4681fef8f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1200&h=630&fit=crop"
 guest_name: "Steph's diary"
 ---
