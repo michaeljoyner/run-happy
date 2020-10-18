@@ -20,7 +20,7 @@
         "node-cmd": "^3.0.0",
         "sass": "^1.15.2",
         "sass-loader": "^7.1.0",
-        "tailwindcss": "^1.0.1",
+        "tailwindcss": "^1.9.1",
         "yargs": "^4.6.0"
     },
     "dependencies": {
