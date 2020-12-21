@@ -4,7 +4,7 @@ slug: an-audacious-goal
 date: 2020-12-21
 categories: ""
 intro: ""
-og_image: "https://images.unsplash.com/photo-1553531384-cc64ac80f931?ixid=MXwxMTY5NDl8MXwxfHNlYXJjaHwxfHxtb3VudGFpbnxlbnwwfHx8&ixlib=rb-1.2.1&w=1200&h=630&fit=crop"
+og_image: "https://images.unsplash.com/photo-1530173235220-f6825c107a77?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&w=1200&h=630&fit=crop"
 ---
 
 <img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1608511173/h8tojovnb6icj4rmclp6.jpg" alt="truly terrifying sketch of a tortoise trying to ride a bicycle" />
