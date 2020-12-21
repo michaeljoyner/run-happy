@@ -2,8 +2,8 @@
 title: "An Audacious Goal"
 slug: an-audacious-goal
 date: 2020-12-21
-categories: ""
-intro: ""
+categories: "madness"
+intro: "With the deafening silence from Athletics SA concerning Comrades 2021 and the requisite qualifiers, it is time to change tack. Of course this involves a brief decent into madnes and panic."
 og_image: "https://images.unsplash.com/photo-1530173235220-f6825c107a77?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&w=1200&h=630&fit=crop"
 ---
 
