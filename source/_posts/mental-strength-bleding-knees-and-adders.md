@@ -3,7 +3,7 @@ title: "Mental Strength"
 slug: mental-strength
 date: 2021-05-09
 categories: "Mental Issues"
-intro: "Ryan Sandes makes me go weak at the knees, but it doesn't work out well. But unless a puff adder gets the better of me, I will be mentally stronger."
+intro: "Ryan Sandes makes me go weak at the knees, and it doesn't work out well. But unless a puff adder gets the better of me, I will be mentally stronger."
 og_image: "https://images.unsplash.com/photo-1557766039-413ea80eab43?ixid=MnwxMTY5NDl8MHwxfHNlYXJjaHwxfHxzdHJlbmd0aHxlbnwwfHx8fDE2MjA1MjI2MDY&ixlib=rb-1.2.1&w=1200&h=630&fit=crop"
 ---
 
