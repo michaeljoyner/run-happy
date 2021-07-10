@@ -9,7 +9,6 @@ class GetGalleries
 {
     public function handle(Jigsaw $jigsaw) {
         
-
         if($jigsaw->getConfig("production")) {
             try {
                 $galleries = $this->fetchGalleries();

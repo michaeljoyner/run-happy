@@ -16,4 +16,4 @@ use App\Listeners\GetGalleries;
  *     // Your code here
  * });
  */
-//$events->beforeBuild(GetGalleries::class);
+$events->beforeBuild(GetGalleries::class);
