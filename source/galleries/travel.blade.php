@@ -23,6 +23,7 @@
 @php $images = $page->galls->{$gallery->cloud_folder} ?? collect([])  @endphp
 @php $image = $images->sortBy(function($image) { return $image->context->custom->position ?? 99999; })->first()  @endphp
 
+@if($images->count())
 <div class="flex flex-col md:flex-row mx-auto max-w-2xl my-16 bg-gray-100 shadow-lg">
     <div class="w-full md:w-1/2 p-6">
         <a href="{{ $gallery->getPath() }}" class="text-black text-2xl font-semibold no-underline hover:text-sunset">{{ $gallery->title }}</a>
@@ -36,7 +37,7 @@
         <img class="inline" src="https://res.cloudinary.com/dy6grlu8z/image/upload/c_scale,w_300/v{{ $image->version }}/{{ $image->public_id }}" alt="" class="my-4">
     @endforeach --}}
 </div>
-
+@endif
 
 @endforeach
 </div>
