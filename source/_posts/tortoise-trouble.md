@@ -1,6 +1,6 @@
 ---
 title: "Tortoise Trouble"
-slug: maf-or-faf-that-is-the-question
+slug: tortoise-trouble
 date: 2022-12-04
 categories: "Fuck Covid"
 intro: "It has been a while, a very long while, but it's time to get back to it. It is also time to look at why we we are where we are."
