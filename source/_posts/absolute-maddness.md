@@ -3,7 +3,7 @@ title: "It's Madness!"
 slug: absolute-madness
 date: 2023-11-11
 categories: "Trail Run"
-intro: "After vowing to never return a decade and a half again, I have decided to sate my appetitie for self-inflicted punishment by attempting the Sani Stagger Trail."
+intro: "After vowing to never return a decade and a half ago, I have decided to sate my appetitie for self-inflicted punishment by attempting the Sani Stagger Trail."
 og_image: "https://res.cloudinary.com/dy6grlu8z/image/upload/c_crop,h_630,w_1200/v1699668873/wk9xryrnke31nlxjh11p.jpg"
 ---
 
