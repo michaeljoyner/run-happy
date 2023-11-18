@@ -1,7 +1,7 @@
 ---
 title: "I Have Staggered"
 slug: i-have-staggered
-date: 2023-11-11
+date: 2023-11-18
 categories: "Not So Fun Run"
 intro: "The Sani Stagger is done, and so am I. Although hard times on the mountain also meant good times on the weekend. And the Old Goat toys with death."
 og_image: "https://res.cloudinary.com/dy6grlu8z/image/upload/v1700287549/iegnbon1ybcce6ykvrja.jpg"
