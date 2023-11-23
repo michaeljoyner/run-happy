@@ -2,7 +2,7 @@
 title: "Just Love It"
 slug: just-love-it
 date: 2023-11-23
-categories: "Road Running"
+categories: "Road Queen"
 intro: "I'm hitting the road, and I'm not ashamed to say that it feels oh-so-good. Grandchildren be damned, I'm living my life 25 quarter miles at a time."
 og_image: "https://res.cloudinary.com/dy6grlu8z/image/upload/c_crop,g_north,h_630,w_1200/v1700742397/w1lsgc3uncnifilt7w3e.jpg"
 ---
