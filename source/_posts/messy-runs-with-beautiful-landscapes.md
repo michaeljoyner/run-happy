@@ -3,7 +3,7 @@ title: "Messy Runs and Beautiful Landscapes"
 slug: messy-runs-and-beautiful-landscapes
 date: 2024-02-02
 categories: "Training"
-intro: "Things got a bitty messy on my run this morning. But at least I didn't soil myself, and actually it may have been productive at the end. So onwards and upwards."
+intro: "Things got a bit messy on my run this morning. But at least I didn't soil myself, and actually it may have been productive at the end. So onwards and upwards."
 og_image: "https://res.cloudinary.com/dy6grlu8z/image/upload/v1706833697/nklfdrnmy5rydggalnpj.jpg"
 ---
 
