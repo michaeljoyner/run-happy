@@ -1,7 +1,7 @@
 ---
 title: "Eating an Elephant"
 slug: eating-an-elephant
-date: 2024-02-02
+date: 2024-03-02
 categories: "Pachyderms"
 intro: "Elephant eaters may be a little frowned upon these days, but if there is one thing they can teach us, it's that we should tackle an enormous task one small bite at a time. So that is exactly what I'm doing."
 og_image: "https://res.cloudinary.com/dy6grlu8z/image/upload/v1709350447/nmgxaq8cpy2vqog8tbho.jpg"
