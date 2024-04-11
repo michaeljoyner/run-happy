@@ -3,7 +3,7 @@ title: "Labradors, Ladysmith and Other Ramblings"
 slug: labradors-and-ladysmith
 date: 2024-04-11
 categories: "Ramblings"
-intro: "My Ladysmith run went very well, our labrador seems to be supportive of my treadmill preferences, and my nightmares probably don't need a a psychotherapist to explain. So all in all, things are on the up."
+intro: "My Ladysmith run went very well, our labrador seems to be supportive of my treadmill preferences, and my nightmares probably don't need a psychotherapist to explain. So all in all, things are on the up."
 og_image: "https://res.cloudinary.com/dy6grlu8z/image/upload/v1712839707/agcjqdxcussytkslgvuh.jpg"
 ---
 
