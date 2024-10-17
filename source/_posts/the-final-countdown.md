@@ -3,7 +3,7 @@ title: "The Final Countdown (Cue Music)"
 slug: the-final-countdown
 date: 2024-10-17
 categories: "Marathon"
-intro: "The day is almost upon us, and the lead up has been anything but easy going. Angry bees and infuriating viruses have tried their best, but nothing will stop me from getting on thast starting line, and giving it my best."
+intro: "The day is almost upon us, and the lead up has been anything but easy going. Angry bees and infuriating viruses have tried their best, but nothing will stop me from getting on that starting line, and giving it my best."
 og_image: "https://res.cloudinary.com/dy6grlu8z/image/upload/v1729153512/tlkbj4be0lizqw9bigv9.jpg"
 ---
 
