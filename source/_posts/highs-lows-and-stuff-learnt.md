@@ -18,6 +18,6 @@ So now I want to write down everything that has occurred to me post-marathon.
 <li class="my-4">No Skattebol, Coke does not contain electrolytes. Coca Cola that is. Not sure about cocaine. I knew that already but chose to ignore it. Two Rehydrates over the course is a must but then you have to carry a small bottle and make a plan to refill about halfway. I didn’t seem in the mood for a small bottle or a refill plan. Rookie error. I had awful leg cramps in the second half of the race which slowed me down from “tortoise with purpose” to “drunken tortoise after heavy night out”.</li>
 <li class="my-4">I know that leg cramps can also be from muscles that are undertrained and fatigued. Being in the second half of my sixties, building muscle and maintaining it can be tricky but it can be done. Next week I will be starting on a month-long leg strengthening plan written by a biokineticist and I will keep going back to her once a month.</li>
 <li class="my-4">Paracetamol with a dash of codeine does not make me feel nauseous. I can take it (within reason) before and on the run and it settles my rather moody and unpredictable stomach very well. I left it too late last Sunday, but at least I had them with me. I don’t need the paracetamol, just the codeine, but it seems you can’t buy pure codeine over the counter.</li>
-<ul>
+</ul>
 
 And now I need to find another marathon….
