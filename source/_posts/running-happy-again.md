@@ -4,7 +4,7 @@ slug: running-happy-again
 date: 2025-04-16
 categories: "Mental Health"
 intro: "The road has been long and winding, and to be honest, the last few years seem to have had more than their fair share of uphills. But a small moment of wisdom has changed all that, and now I'm back to doing what I do best - Running Happy"
-og_image: "https://res.cloudinary.com/dy6grlu8z/image/upload/v1730290674/ri8a2ndypyvznduhnlek.jpg"
+og_image: "https://res.cloudinary.com/dy6grlu8z/image/upload/v1744779257/ic7tqgweun54wuuc2o7x.jpg"
 ---
 
 <img src="https://res.cloudinary.com/dy6grlu8z/image/upload/v1744779248/vxcch0iytnojlnx54gvb.jpg" alt="">
